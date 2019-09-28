@@ -1,7 +1,6 @@
 ﻿[
   {
     "outputFileName": "wwwroot/css/all.min.css",
-    // An array of relative input file paths. Globbing patterns supported
     "inputFiles": [
       "wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "wwwroot/css/site.css"
@@ -9,7 +8,6 @@
   },
   {
     "outputFileName": "wwwroot/css/bootstrap.css",
-    // An array of relative input file paths. Globbing patterns supported
     "inputFiles": [
       "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     ],
